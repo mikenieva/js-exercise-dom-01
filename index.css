@@ -1,0 +1,9 @@
+.page {
+  background-color: white;
+  color: black;
+}
+
+.page-darkmode {
+  background-color: black;
+  color: white;
+}
